@@ -1,5 +1,5 @@
 # Extra Space Remover
-##Functionality:
+## Functionality:
 
 The page consists of a text area where the user can input text.
 
